@@ -3,7 +3,7 @@ java:
   - 7.0 
   - 8.0
 jdk:
-  - oraclejdk7
+  - openjdk7
   - oraclejdk8
 notifications:
   email:
