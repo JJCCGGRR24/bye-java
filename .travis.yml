@@ -4,7 +4,7 @@ java:
   - 8.0
 jdk:
   - oraclejdk7
-  -oraclejdk8
+  - oraclejdk8
 notifications:
   email:
     recipients:
