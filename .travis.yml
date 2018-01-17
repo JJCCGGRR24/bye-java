@@ -1,0 +1,10 @@
+language: java
+jdk:
+  - oraclejdk7 
+  - oraclejdk8
+notifications:
+  email:
+    recipients:
+      - sepinaco@gmail.com
+    on_success: never # default: change
+    on_failure: always # default: always  
